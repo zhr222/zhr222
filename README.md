@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HELLO}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm zhang hanrui}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
+
+
 ## My Brief Introduction
 - 👋 Hi, I’m @zhr222
 - 👀 I’m interested in games, music, some funny talkshow
